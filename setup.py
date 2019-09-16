@@ -19,8 +19,8 @@ setup(
     version='1.0.0',
     description='find target icon on your picture, hyper ui test',
     author='yanzongzhen',
-    author_email='yanzongzhen@inspur.com',
-    url='https://github.com/yanzongzhen/findit',
+    author_email='yanzongzhen127@outlook.com',
+    url='https://github.com/yanzongzhen/hyper-find',
     packages=find_packages(),
     python_requires=">=3.6",
     install_requires=install_requirement_list
